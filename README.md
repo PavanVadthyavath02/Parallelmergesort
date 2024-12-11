@@ -37,4 +37,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 For any questions or suggestions, please open an issue or contact PavanVadthyavath02@gmial.com
 
-![click here for image](C:\Users\pavan\Parallelmergesort-1\image.png)
+![click here for image](image.png)
