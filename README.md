@@ -35,6 +35,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact pankupremchand@gmai.com
+For any questions or suggestions, please open an issue or contact PavanVadthyavath02@gmial.com
 
 ![click here for image](C:\Users\pavan\Parallelmergesort-1\image.png)
